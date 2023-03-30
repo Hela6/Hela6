@@ -1,4 +1,5 @@
-### Hi, this is Leah!
+### Hi, this is ```diff @@ Leah (and bold)@@ !
+```
 
 I'm currently working on an online library in **PHP** and a weather app in **JS**!
 
