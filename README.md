@@ -1,8 +1,16 @@
-### Hi, this is Leah!
-```
+## Hi, this is Leah! 
 
-I'm currently working on an online library in PHP and a weather app in JS!
+<br>
 
-Still training with native languages but looking forward to learning some frameworks 🛫
+I'm currently working on an online library in **PHP** and a weather app in **JS**!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hela6)](https://github.com/anuraghazra/github-readme-stats)
+Still training with native languages but looking forward to learning some frameworks.
+
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hela6&show_icons=true&theme=tokyonight&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
