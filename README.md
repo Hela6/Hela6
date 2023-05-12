@@ -2,9 +2,9 @@
 
 <br>
 
-I'm currently working on an online library in ***PHP*** and a weather app in ***JS***!
+I'm currently working on a back office app in ***PHP*** and twig with MVC architecture!
 
-Still training with native languages but looking forward to learning some frameworks.
+Still training with native languages but starting to learn React and Vue to choose between the two.
 
 
 <br>
