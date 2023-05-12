@@ -4,7 +4,7 @@
 
 I'm currently working on a back office app in ***PHP*** and twig with MVC architecture!
 
-Still training with native languages but starting to learn React and Vue to choose between the two.
+Still training with native languages but starting to learn React and Vue to see which one I prefer to work with.
 
 
 <br>
