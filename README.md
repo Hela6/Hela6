@@ -2,7 +2,7 @@
 
 <br>
 
-I'm currently working on a back office app in ***PHP*** and twig with MVC architecture!
+I'm currently working on a client side app project with Vue JS!
 
 Still training with native languages but starting to learn React and Vue to see which one I prefer to work with.
 
