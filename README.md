@@ -1,10 +1,12 @@
-## Hi, this is Leah! 
+##⚫ Hi, this is Leah! ⚫
 
 <br>
 
-I'm currently working on a client side app project with Vue JS!
 
-Still training with native languages but starting to learn React and Vue to see which one I prefer to work with.
+
+<br>
+
+I'm currently working on **a blog app** with **Symfony**!
 
 
 <br>
