@@ -6,7 +6,7 @@
 
 <br>
 
-I'm currently working on **a blog app** with **Symfony**!
+I'm currently working on **a blog app** with **React**!
 
 
 <br>
